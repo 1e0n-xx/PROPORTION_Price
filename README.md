@@ -1,2 +1,2 @@
 # PROPORTION_Price
-当日卡价：5.95
+当日卡价：6
