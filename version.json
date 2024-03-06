@@ -1,5 +1,5 @@
 {
- "latest_version":{"version": "1.0.7",
+ "latest_version":{"version": "1.0.8",
   "change_log": "1. 优化了报错信息\n2. 优化了登录逻辑\n3. 修改为注册码激活\n4. 重构了缓存管理"
 
  }
